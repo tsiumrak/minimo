@@ -1,3 +1,4 @@
+
 .brand-logo{
     margin-left: 100px;
 }
@@ -5,6 +6,7 @@
     margin-right: 100px;
 }
 .first_img{
+    margin-top: 20px;
     padding: 10px; 
 }
 .text{
@@ -20,4 +22,19 @@
 .picture{
     width: 400px;
     box-shadow: none;
+}
+
+.center_search{
+    width: 700px;
+    margin-left: 500px;
+}
+.button{
+    border: 1px solid brown;
+    width: 100px;
+    height: 40px;
+    padding: 5px;
+}
+.links li{
+    display: inline;
+    margin-right: 20px;
 }
